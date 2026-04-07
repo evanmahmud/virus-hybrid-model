@@ -133,11 +133,11 @@ Input Image (variable resolution .tif)
 
 | Metric | Score |
 |---|---|
-| Accuracy | **~90%** (target) |
-| Macro Precision | — |
-| Macro Recall | — |
-| Macro F1 | — |
-| Macro AUC | — |
+| Accuracy | **~89%** |
+| Macro Precision | 86% |
+| Macro Recall | 86% |
+| Macro F1 | 85% |
+| Macro AUC | 99% |
 
 > Results update after full hybrid training run.
 
