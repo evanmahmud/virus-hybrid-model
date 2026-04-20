@@ -147,7 +147,7 @@ Input Image (variable resolution .tif)
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/virus-hybrid-detection.git
+git clone https://github.com/evanmahmud/virus-hybrid-detection.git
 cd virus-hybrid-detection
 
 # Install dependencies
